@@ -1,4 +1,4 @@
 # API - Intergration
 
-This project can `get`, `add`, `update` and `delete` data database
+This project can `get`, `add`, `update` and `delete` data from database
 
